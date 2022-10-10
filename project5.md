@@ -87,7 +87,7 @@ MySQL server uses TCP port 3306 by default, so you will have to open it by creat
   mysql > CREATE USER 'root'@'<ip-address>' IDENTIFIED WITH mysql_native_password BY '<password>';
   ```
   ```
-  GRANT ALL PRIVILEGES ON *.* TO 'root'@'<ip_address>';
+  mysql > GRANT ALL PRIVILEGES ON *.* TO 'root'@'<ip_address>';
   ```
 
 - restart mysql service
