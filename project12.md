@@ -262,10 +262,10 @@ You should be able to see both of your UAT Web servers configured and you can tr
 
 http://<Web1-UAT-Server-Public-IP-or-Public-DNS-Name>/index.php
 
-![](images/web1.png)
+![](images/web11.png)
 
 or
 
 http://<Web1-UAT-Server-Public-IP-or-Public-DNS-Name>/index.php
 
-![](images/web2.png)
+![](images/web22.png)
