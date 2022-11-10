@@ -260,12 +260,12 @@ You should be able to see both of your UAT Web servers configured and you can tr
 
 *Tip* - Do remember to enable HTTP connection in your ec2 instances
 
-http://<Web1-UAT-Server-Public-IP-or-Public-DNS-Name>/index.php
+http://Web1-UAT-Server-Public-IP-or-Public-DNS-Name/index.php
 
 ![](images/web11.png)
 
 or
 
-http://<Web1-UAT-Server-Public-IP-or-Public-DNS-Name>/index.php
+http://Web1-UAT-Server-Public-IP-or-Public-DNS-Name/index.php
 
 ![](images/web22.png)
