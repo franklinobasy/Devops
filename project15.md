@@ -327,13 +327,13 @@ Nginx EC2 Instances will have configurations that accepts incoming traffic only 
 
 - Ensure that health check passes for the target group
 
-![](./Images/loadbalancers.PNG)
+![](./images/loadbalancers.png)
 
 **NOTE:** This process must be repeated for both WordPress and Tooling websites.
 
 - Route traffic coming from the nginx server into the internal loadbalancer by sending traffic to the respective target group based on the url being requested by the user.
   
-![](./Images/adding%20rules.PNG)
+![](./images/adding%20rules.png)
 
 
 ## Creating Databases for Wordpress and Tooling Sites on MySQL rds
@@ -342,7 +342,7 @@ Nginx EC2 Instances will have configurations that accepts incoming traffic only 
 
 - Create databases 
 
-![](./Images/creating%20database%20tooling%20and%20wordpress.PNG)  
+![](./images/creating%20database%20tooling%20and%20wordpress.PNG)  
 
 
-![](./Images/tooling%20webpage.PNG)
+![](./images/tooling%20webpage.PNG)
