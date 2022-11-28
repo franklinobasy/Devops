@@ -342,7 +342,7 @@ Nginx EC2 Instances will have configurations that accepts incoming traffic only 
 
 - Create databases 
 
-![](./images/creating%20database%20tooling%20and%20wordpress.PNG)  
+![](./images/creating%20database%20tooling%20and%20wordpress.png)  
 
 
-![](./images/tooling%20webpage.PNG)
+![](./images/tooling%20webpage.png)
